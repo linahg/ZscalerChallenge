@@ -20,5 +20,10 @@ Use fake user.
   username = Carolina
   password = abc123
 
-2. Error on sign in
+![image](https://github.com/linahg/ZscalerChallenge/assets/3824324/85d3f5d2-3ebd-4292-b66d-5160af99ed83)
+
+
+3. Error on sign in
   Try other values to get an error on sign in
+
+![image](https://github.com/linahg/ZscalerChallenge/assets/3824324/41aed16d-d6d3-42d1-aed5-3cfb842885f0)
