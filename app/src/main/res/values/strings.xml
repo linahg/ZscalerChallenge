@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ZscalerChallenge</string>
+    <string name="username_must_not_be_empty">Username must not be empty!</string>
+    <string name="password_must_not_be_empty">Password must not be empty!</string>
+    <string name="something_wrong_happened">Something wrong happened...We\'re working on it!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="error_on_username_field_icon">Error on username field icon</string>
+    <string name="error_on_password_field_icon">Error on password field icon</string>
+    <string name="sig_in">Sig in</string>
+</resources>
