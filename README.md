@@ -12,3 +12,13 @@ Error handling: Handle cases where the login process encounters errors or invali
 Bonus (optional):
 
 Loading indicator: Show a loading indicator while the authentication process is ongoing.
+
+------------------------------------------------------------------------------------------------------------------------
+Testing:
+1. Happy path
+Use fake user.
+  username = Carolina
+  password = abc123
+
+2. Error on sign in
+  Try other values to get an error on sign in
