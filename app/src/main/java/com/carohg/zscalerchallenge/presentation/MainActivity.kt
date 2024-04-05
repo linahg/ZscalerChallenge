@@ -84,7 +84,7 @@ fun SignInScreen(viewModel: SignInViewModel) {
         verticalArrangement = Arrangement.Top,
         horizontalAlignment = Alignment.CenterHorizontally) {
 
-        Text(text = "Sign in")
+        Text(text = stringResource(R.string.sign_in))
 
         OutlinedTextField(
             value = username,
